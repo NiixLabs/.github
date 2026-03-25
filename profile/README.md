@@ -31,4 +31,5 @@ Logica de decisao na borda (Edge Computing) para que o sistema reaja a eventos s
 ## Contato
 
 Site: [niixlabs.com](https://niixlabs.com)
+
 E-mail: contact@niixlabs.com
